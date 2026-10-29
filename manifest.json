@@ -1,0 +1,15 @@
+{
+  "id": "./",
+  "name": "57LIVING Admin Portal",
+  "short_name": "57LIVING",
+  "description": "Mobile shortcut for the 57LIVING Admin Portal",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8f4f1",
+  "theme_color": "#641c2b",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
